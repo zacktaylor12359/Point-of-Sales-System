@@ -1,0 +1,13 @@
+Name:          Category:      Price:         Stock:         Best by:       
+Steak          Meat           2.12           1              4 21 2019
+Chicken        Meat           7.00           15             4 21 2019
+Pork           Meat           8.50           20             4 22 2019
+Brain          Meat           2.25           1              1 20 2020
+Trex           Meat           4.50           45             1 2 2020
+Cucumber       Veggie         1.50           40             6 12 2019
+Califlower     Veggie         1.80           80             7 23 2019
+Carrot         Veggie         2.00           10             4 15 2019
+Mahfroom       Veggie         45.00          78             1 2 2020
+Apple          Fruit          4.00           120            5 12 2019
+Orange         Fruit          2.65           15             4 12 2020
+Banana         Fruit          2.00           30             9 17 2019
